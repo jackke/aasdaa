@@ -1,0 +1,7 @@
+.xioage ul li{
+    padding: 5px 20px;
+}
+.xioage ul li.action{
+    background: sandybrown;
+    color:#fff;
+}
